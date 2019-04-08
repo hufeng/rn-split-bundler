@@ -1,0 +1,13 @@
+{
+  "name": "metro-create-moduleid-factory",
+  "version": "1.0.0",
+  "description": "create a custom metro-bundler moduleIdFactory",
+  "main": "./src/lib/createModuleIdFactory.js",
+  "keywords": [
+    "metro-bundler",
+    "hash moduleId",
+    "moduleIdFactory"
+  ],
+  "author": "QMFE",
+  "license": "MIT"
+}

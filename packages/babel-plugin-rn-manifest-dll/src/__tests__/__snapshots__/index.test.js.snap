@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`transform manifest 1`] = `
+"
+var React = qmrequire(500379870);
+var ReactNative = qmrequire(1896797308);"
+`;
